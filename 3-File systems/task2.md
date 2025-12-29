@@ -31,3 +31,4 @@ ls /bin
 ls /sbin
 ls /usr/bin
 ls /usr/sbin
+![photo_2025-12-29_23-46-30](https://github.com/user-attachments/assets/44367b12-6305-4959-92ca-2b1cd247a9d8)
