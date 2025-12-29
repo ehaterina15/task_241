@@ -82,3 +82,5 @@ rm -r work_dir
 # =========================================================
 # Конец скрипта
 # =========================================================
+![4](https://github.com/user-attachments/assets/a1e8a2a7-d301-4d00-a25b-8e310bb4c59b)
+![44](https://github.com/user-attachments/assets/7a284d47-1f07-4704-9f22-a307116bcbce)
