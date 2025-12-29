@@ -48,4 +48,5 @@ sudo userdel -r user2
 # 9. Изменение владельца папки
 # Изменение владельца файла из пункта 4
 sudo chown user1:user1 /home/user1/all_rights.txt
+![photo_2025-12-29_23-40-27](https://github.com/user-attachments/assets/f2015f71-9ded-469b-a3ec-09294069a824)
 
