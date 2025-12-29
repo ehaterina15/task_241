@@ -43,3 +43,6 @@ ssh -p <228> student@ternar.io
 ```
 
 Пароль при подключении не запрашивался, что подтверждает корректную настройку аутентификации по SSH-ключам.
+<img width="651" height="431" alt="image" src="https://github.com/user-attachments/assets/f21a2ea8-ef4d-4268-b3ba-31d6237ba990" />
+
+<img width="649" height="213" alt="image" src="https://github.com/user-attachments/assets/8a382333-5299-4f0b-b32d-8a510d889b94" />
