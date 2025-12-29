@@ -40,5 +40,5 @@ cat < created.txt
 
 # 8. Отправить весь вывод команды в пустоту
 ping -c 1 google.com > /dev/null 2>&1
-![photo_2025-12-29_23-40-46](https://github.com/user-attachments/assets/dea04a80-02de-49b8-8c12-11ca4bb0cdaf)
+![1](https://github.com/user-attachments/assets/4224c741-8960-4981-86f1-47646c79aac5)
 
