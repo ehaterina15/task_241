@@ -136,3 +136,7 @@ cat mirror.txt
 #
 # RAID можно создавать во время установки Linux,
 # включая установку системы на RAID 1.
+![r](https://github.com/user-attachments/assets/ce921d99-8db2-4674-a6bf-948315c6b5a2)
+
+
+
