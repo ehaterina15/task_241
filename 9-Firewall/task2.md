@@ -47,13 +47,9 @@
 Список разрешённых сервисов:
 
 dhcpv6-client ssh samba
+
+
 <img width="636" height="360" alt="image" src="https://github.com/user-attachments/assets/5c32cfb0-8ff7-49c2-b71a-e14d079e9682" />
 
 <img width="585" height="434" alt="image" src="https://github.com/user-attachments/assets/0b1c21dd-94f6-44e5-8bce-cf7d317bd559" />
 
-Если нужно:
- • сократить отчёт до 1 страницы
- • адаптировать стиль под конкретного преподавателя
- • оформить в формате Markdown для GitHub
-
-скажи — сделаю сразу.
