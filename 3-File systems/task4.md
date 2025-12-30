@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # =========================================
 # RAID (Redundant Array of Independent Disks)
