@@ -18,6 +18,7 @@ ls
 ```
 ls -a
 ```
+
 # 5. Создание файла и запись текста в него
 ```
 echo "Пример текста" > file.txt
@@ -52,3 +53,4 @@ sort -r new_file.txt
 cd ..
 rm -r main_folder
 ```
+<img width="646" height="434" alt="image" src="https://github.com/user-attachments/assets/06637369-5139-4ea1-8b74-1450df2c4c31" />
